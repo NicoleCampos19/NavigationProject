@@ -1,0 +1,12 @@
+.form{
+    background-color: white;
+    padding: 15px 32px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.input-gris {
+    background-color: #d3d3d3; /* Gris claro */
+    border: 1px solid #ccc; /* Borde gris claro */
+  }
+  

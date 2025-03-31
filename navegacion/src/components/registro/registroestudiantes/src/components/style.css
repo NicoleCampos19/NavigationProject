@@ -1,0 +1,19 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+
+}
+  .btn{
+    background-color: blue;
+    color: white;
+    width: 500px;
+  }
+
+  .input-gris{
+    background-color: #CDCDCD; /* Gris claro */
+    border: 0; /* Borde gris claro */
+    width: 400px;
+    height: 15px;
+    border-radius: 5px;
+  }
